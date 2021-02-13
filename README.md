@@ -1,4 +1,4 @@
-# [logo] CleanWPF
+# ![logo] CleanWPF
 
 CleanWPF - develop your WPF application quickly and make it clean.
 
