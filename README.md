@@ -3,6 +3,7 @@
 
 CleanWPF - develop your WPF application quickly and make it clean.
 
+---
 
 ![Nuget](https://img.shields.io/nuget/v/CleanWpf)   ![Nuget](https://img.shields.io/nuget/dt/CleanWpf)
 
