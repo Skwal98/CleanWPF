@@ -1,0 +1,1 @@
+How make fast start
