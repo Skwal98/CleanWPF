@@ -15,7 +15,7 @@ CleanWPF - develop your WPF application quickly and make it clean.
 
 ---
 
-#Changelog
+# Changelog
 
 v1.3.0
 
