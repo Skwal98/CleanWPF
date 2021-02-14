@@ -12,3 +12,11 @@ CleanWPF - develop your WPF application quickly and make it clean.
 * [Samples repository](https://github.com/Skwal98/CleanWPF-Samples)
 
 [logo]: https://github.com/Skwal98/CleanWPF/blob/main/plumber%20(1).png "CleanWPF" 
+
+---
+
+#Changelog
+
+v1.3.0
+
+Added the ability to bind the ViewModel to the startup Window.
