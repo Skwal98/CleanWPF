@@ -20,3 +20,7 @@ CleanWPF - develop your WPF application quickly and make it clean.
 v1.3.0
 
 Added the ability to bind the ViewModel to the startup Window.
+
+v1.3.0
+
+Added the ability to regiter dependencies in the project.
